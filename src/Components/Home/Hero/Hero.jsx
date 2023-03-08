@@ -14,7 +14,7 @@ const Hero = () => {
               <span className="text-4xl mb-4"> Hey Wellcome to </span>
               <br />
               <span className="flex">
-                <span className="text-yellow-400 ">Himu</span> Kitchen
+                <span className="text-yellow-400 ">Food</span> panda
                 <span className="text-yellow-400">
                   <FaUtensils></FaUtensils>
                 </span>
